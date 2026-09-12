@@ -1,0 +1,15 @@
+tldextract>=0.1
+rapidfuzz>=0.1
+python-whois>=0.9
+
+pydantic>=2.6.0
+pydantic-settings>=2.2.0
+
+catboost>=0.1
+gigachat>=0.2.3
+
+asyncio>=1.0
+aiohttp>=1.0
+
+transformers>=4.38.0
+torch>=2.2.0
